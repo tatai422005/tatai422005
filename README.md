@@ -5,7 +5,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
-💫 About Me:
+# 💫 About Me:
 🚀 Full Stack Web Developer passionate about building innovative, scalable, and user-focused digital solutions. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) 💻, creating powerful backends and dynamic, responsive frontends.<br><br>📱 I also develop cross-platform mobile applications using Flutter, ensuring smooth performance and modern UI experiences. With a strong eye for UX/UI Design 🎨, I craft clean, intuitive, and visually appealing interfaces that enhance user satisfaction.<br><br>⚡ My goal is to transform ideas into reality through code, delivering high-performance web and mobile applications that solve real-world problems. I’m constantly exploring new technologies, refining my skills, and embracing best practices in development.<br><br>🌱 Lifelong learner, open to collaborations, and always ready to contribute to exciting projects.<br>📌 Let’s connect, build, and innovate together! ✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatai422005&label=Profile%20views&color=0e75b6&style=flat" alt="tatai422005" /> </p>
