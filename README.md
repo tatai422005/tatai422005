@@ -32,6 +32,7 @@
 
  ## 💰 You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/soumyadeeroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumyadeeroy" /></a></p><br><br>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
