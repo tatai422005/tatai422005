@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Roy</h1>
-<img align="center" alt="coding" width="400" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/a3bc061c-e688-40af-949d-c16c58cab3ca"/>
+
 # 💫 About Me:
 🚀 Full Stack Web Developer passionate about building innovative, scalable, and user-focused digital solutions. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) 💻, creating powerful backends and dynamic, responsive frontends.<br><br>📱 I also develop cross-platform mobile applications using Flutter, ensuring smooth performance and modern UI experiences. With a strong eye for UX/UI Design 🎨, I craft clean, intuitive, and visually appealing interfaces that enhance user satisfaction.<br><br>⚡ My goal is to transform ideas into reality through code, delivering high-performance web and mobile applications that solve real-world problems. I’m constantly exploring new technologies, refining my skills, and embracing best practices in development.<br><br>🌱 Lifelong learner, open to collaborations, and always ready to contribute to exciting projects.<br>📌 Let’s connect, build, and innovate together! ✨
 
