@@ -1,4 +1,4 @@
-![logo](https://github.com/tatai422005/tatai422005/blob/main/Purple%20and%20Blue%20Futuristic%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/tatai422005/tatai422005/blob/main/Purple%20and%20Blue%20Futuristic%20Data%20Analyst%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Soumyadeep Roy</h1>
 
 # 💫 About Me:
