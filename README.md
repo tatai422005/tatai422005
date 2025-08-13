@@ -1,11 +1,5 @@
 ![logo](https://github.com/tatai422005/tatai422005/blob/main/Purple%20and%20Blue%20Futuristic%20Data%20Analyst%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Soumyadeep Roy</h1> 
-<img align="middle" alt="coding" width="400" src="https://github.com/user-attachments/assets/f0ae93a0-6eaa-45ef-a69e-d3196a372ac6" />
-
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<br>
 
 # 💫 About Me:
 🚀 Full Stack Web Developer passionate about building innovative, scalable, and user-focused digital solutions. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) 💻, creating powerful backends and dynamic, responsive frontends.<br><br>📱 I also develop cross-platform mobile applications using Flutter, ensuring smooth performance and modern UI experiences. With a strong eye for UX/UI Design 🎨, I craft clean, intuitive, and visually appealing interfaces that enhance user satisfaction.<br><br>⚡ My goal is to transform ideas into reality through code, delivering high-performance web and mobile applications that solve real-world problems. I’m constantly exploring new technologies, refining my skills, and embracing best practices in development.<br><br>🌱 Lifelong learner, open to collaborations, and always ready to contribute to exciting projects.<br>📌 Let’s connect, build, and innovate together! ✨
