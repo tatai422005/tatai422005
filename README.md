@@ -34,8 +34,7 @@
 [![](https://visitcount.itsvg.in/api?id=tatai422005&icon=4&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/soumyadeeroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumyadeeroy" /></a></p><br><br>
+  <h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/soumyadeeroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumyadeeroy" /></a></p><br><br>
 
 <!-- Snake Game Repo View -->
 
