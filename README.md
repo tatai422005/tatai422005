@@ -33,8 +33,8 @@
  ## 💰 You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/soumyadeeroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumyadeeroy" /></a></p><br><br>
 
+<h2 align="left">🐍 Watch Snake Eating My GitHub Contributions 🐍</h2>
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
