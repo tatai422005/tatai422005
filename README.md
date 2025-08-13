@@ -30,14 +30,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=tatai422005&icon=4&color=10)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+ ## 💰 You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/soumyadeeroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumyadeeroy" /></a></p><br><br>
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=tatai422005&icon=4&color=10)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
