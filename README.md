@@ -1,6 +1,6 @@
 ![logo](https://github.com/tatai422005/tatai422005/blob/main/Purple%20and%20Blue%20Futuristic%20Data%20Analyst%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Soumyadeep Roy</h1>
-<img align="center" alt="coding" width="400" src="https://github.com/user-attachments/assets/9c8f6977-3f89-4ed0-b22b-a54e97e2f385"/>
+<img align="middle" alt="coding" width="400" src="https://github.com/user-attachments/assets/9c8f6977-3f89-4ed0-b22b-a54e97e2f385"/>
 
 # 💫 About Me:
 🚀 Full Stack Web Developer passionate about building innovative, scalable, and user-focused digital solutions. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) 💻, creating powerful backends and dynamic, responsive frontends.<br><br>📱 I also develop cross-platform mobile applications using Flutter, ensuring smooth performance and modern UI experiences. With a strong eye for UX/UI Design 🎨, I craft clean, intuitive, and visually appealing interfaces that enhance user satisfaction.<br><br>⚡ My goal is to transform ideas into reality through code, delivering high-performance web and mobile applications that solve real-world problems. I’m constantly exploring new technologies, refining my skills, and embracing best practices in development.<br><br>🌱 Lifelong learner, open to collaborations, and always ready to contribute to exciting projects.<br>📌 Let’s connect, build, and innovate together! ✨
