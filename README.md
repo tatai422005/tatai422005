@@ -1,5 +1,5 @@
 ![logo](https://github.com/tatai422005/tatai422005/blob/main/Purple%20and%20Blue%20Futuristic%20Data%20Analyst%20LinkedIn%20Banner%20(2).png)
-<h1 align="center">Hi 👋, I'm Soumyadeep Roy</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Soumyadeep Roy</h1> 
 <img align="middle" alt="coding" width="400" src="https://github.com/user-attachments/assets/f0ae93a0-6eaa-45ef-a69e-d3196a372ac6" />
 
 # 💫 About Me:
