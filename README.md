@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatai422005&label=Profile%20views&color=0e75b6&style=flat" alt="tatai422005" /> </p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/soumyadeep-roy-2a392a269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyadeep-roy-2a392a269" height="30" width="40" /></a>
 <a href="https://kaggle.com/soumyadeeproy04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soumyadeeproy04" height="30" width="40" /></a>
