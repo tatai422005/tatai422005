@@ -3,7 +3,7 @@
 
 <div align="center">
   <img alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-</div>
+</div> 
 
 # 💫 About Me:
 🚀 Full Stack Web Developer passionate about building innovative, scalable, and user-focused digital solutions. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) 💻, creating powerful backends and dynamic, responsive frontends.<br><br>📱 I also develop cross-platform mobile applications using Flutter, ensuring smooth performance and modern UI experiences. With a strong eye for UX/UI Design 🎨, I craft clean, intuitive, and visually appealing interfaces that enhance user satisfaction.<br><br>⚡ My goal is to transform ideas into reality through code, delivering high-performance web and mobile applications that solve real-world problems. I’m constantly exploring new technologies, refining my skills, and embracing best practices in development.<br><br>🌱 Lifelong learner, open to collaborations, and always ready to contribute to exciting projects.<br>📌 Let’s connect, build, and innovate together! ✨
@@ -35,9 +35,8 @@
 
 <h2 align="left">🐍 Watch Snake Eating My GitHub Contributions 🐍</h2>
 <!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
+![snake gif](https://github.com/tatai422005/tatai422005/blob/output/github-snake-dark.svg)
 
 [![](https://visitcount.itsvg.in/api?id=tatai422005&icon=4&color=10)](https://visitcount.itsvg.in)
 
