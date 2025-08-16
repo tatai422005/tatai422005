@@ -47,10 +47,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- ## 💰 You can help me by Donating
+ # 💰 You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/soumyadeeroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumyadeeroy" /></a></p><br><br>
 
-<h2 align="left">🐍 Watch Snake Eating My GitHub Contributions 🐍</h2>
+# 🐍 Watch Snake Eating My GitHub Contributions 🐍
 <!-- Snake Game Repo View -->
 
 ![snake gif](https://github.com/tatai422005/tatai422005/blob/output/github-snake-dark.svg)
