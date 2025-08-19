@@ -57,4 +57,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=tatai422005&icon=4&color=10)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=150&section=footer&text=✨%20Thank%20You!%20✨&fontSize=35&fontColor=ffffff&animation=twinkling" width="100%"/>
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
