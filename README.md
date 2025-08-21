@@ -16,10 +16,10 @@
 # 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/soumyadeep-roy-2a392a269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyadeep-roy-2a392a269" height="30" width="40" /></a>
-<a href="https://kaggle.com/soumyadeeproy04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soumyadeeproy04" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100054522961185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100054522961185" height="30" width="40" /></a>
+<a href="mailto:soumyadeep.roy2017@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" /></a>
 <a href="https://instagram.com/tataii_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tataii_33" height="30" width="40" /></a>
-
+<a href="https://fb.com/profile.php?id=100054522961185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100054522961185" height="30" width="40" /></a>
+<a href="https://wa.me/918159093038" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" /></a>
 </p>
 
 
