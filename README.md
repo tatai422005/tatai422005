@@ -72,9 +72,6 @@
 
 ![snake gif](https://github.com/tatai422005/tatai422005/blob/output/github-snake-dark.svg)
 
-[![](https://visitcount.itsvg.in/api?id=tatai422005&icon=4&color=10)](https://visitcount.itsvg.in)
-
-
 # 📊 GitHub Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tatai422005&theme=react-dark&hide_border=true&area=true)
