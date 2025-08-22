@@ -50,6 +50,19 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# 📜 Licenses & Certifications  
+
+| 🏢 Company Logo | 🎓 Certification |
+|:---------------:|-----------------|
+| <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" alt="Google Analytics" width="40"/> | [📊 Google Analytics Certification](https://skillshop.credential.net/d90c6566-2c02-4db9-89ec-6bbacf0a90e3#acc.wXGBbzWU) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="40"/> | [💼 Career Essentials in Data Analysis by Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/b6bc7bc31c51bfd6755c2a374ceb97f1d14efc514c1347eac418c66243fa7597) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/DeloitteNewSmall.png" alt="Deloitte Logo" width="40"/> | [📈 Deloitte Australia - Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Mq3C4QoLmoxPjpEwJ_1754939755746_completion_certificate.pdf) |
+| <img src="https://www.langoly.com/wp-content/uploads/2022/09/udemy-logo.png" alt="Udemy Logo" width="40"/> | [⚛️ React JS – A Deep Dive](https://www.udemy.com/certificate/UC-af8e1c66-b80c-4fe7-9ea9-0808bbeba238/) |
+| <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-p@2x.png" alt="NVIDIA Logo" width="40"/> | [🤖 AI for All: From Basics to GenAI Practice](https://academy.nvidia.com/mod/certificate/view.php?id=18980&action=get) |
+| <img src="https://cdn-assets.theforage.com/images/forage-schema-logo.png" alt="Accenture Logo" width="40"/> | [💻 Accenture UK - Developer & Technology Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ovyvuqqNRQKBjNxbj/3xnZEj9kfpoQKW885_ovyvuqqNRQKBjNxbj_Mq3C4QoLmoxPjpEwJ_1755019606970_completion_certificate.pdf) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="Red Hat Logo" width="40"/> | [🐧 Red Hat System Administrator I (RH124)](https://drive.google.com/file/d/1Q0_dDvoN6lmDPFNK5tB2ipHLV5vpT78a/view?usp=sharing) |
+| <img src="https://mir-s3-cdn-cf.behance.net/projects/404/daca8c154289491.Y3JvcCw4NTAsNjY0LDAsMTY.jpg" alt="Communication Logo" width="40"/> | [🗣️ Communication Skills](https://drive.google.com/file/d/1fvQ1AfPaFdUN-1k60KqPPlDBTBGueqCZ/view?usp=sharing) |
+
 
  # 💰 You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/soumyadeeroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumyadeeroy" /></a></p><br><br>
