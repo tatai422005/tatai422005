@@ -50,7 +50,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📜 Licenses & Certifications  
+# 📜 Licenses & Certifications  
 
 | 🏢 Company Logo | 🎓 Certification | 📅 Completion Date | ⭐ Skills Gained |
 |:---------------:|-----------------|:------------------:|-----------------|
