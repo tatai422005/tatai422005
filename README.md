@@ -61,7 +61,7 @@
 | <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-p@2x.png" alt="NVIDIA Logo" width="55"/> | [🤖 AI for All: From Basics to GenAI Practice](https://academy.nvidia.com/mod/certificate/view.php?id=18980&action=get) | August 13, 2025 | AI Tools & Frameworks, GenAI, Machine Learning |
 | <img src="https://cdn-assets.theforage.com/images/forage-schema-logo.png" alt="Accenture Logo" width="40"/> | [💻 Accenture UK - Developer & Technology Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ovyvuqqNRQKBjNxbj/3xnZEj9kfpoQKW885_ovyvuqqNRQKBjNxbj_Mq3C4QoLmoxPjpEwJ_1755019606970_completion_certificate.pdf) | August 12, 2025 | Software Development & Testing, Technology & Trends Analysis |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="Red Hat Logo" width="40"/> | [🐧 Red Hat System Administrator I (RH124)](https://drive.google.com/file/d/1Q0_dDvoN6lmDPFNK5tB2ipHLV5vpT78a/view?usp=sharing) | December 17, 2024 | Linux Command-Line & File Management, Networking & SSH Configuration |
-| <img src="https://mir-s3-cdn-cf.behance.net/projects/404/daca8c154289491.Y3JvcCw4NTAsNjY0LDAsMTY.jpg" alt="Communication Logo" width="40"/> | [🗣️ Communication Skills](https://drive.google.com/file/d/1fvQ1AfPaFdUN-1k60KqPPlDBTBGueqCZ/view?usp=sharing) | Oct 2024 | Public Speaking, Soft Skills |
+| <img src="https://mir-s3-cdn-cf.behance.net/projects/404/daca8c154289491.Y3JvcCw4NTAsNjY0LDAsMTY.jpg" alt="Communication Logo" width="40"/> | [🗣️ Communication Skills](https://drive.google.com/file/d/1fvQ1AfPaFdUN-1k60KqPPlDBTBGueqCZ/view?usp=sharing) | August 21, 2025 | Public Speaking, Soft Skills |
 
 
 
