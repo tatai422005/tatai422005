@@ -54,7 +54,7 @@
 
 | 🏢 Company Logo | 🎓 Certification | 📅 Completion Date | ⭐ Skills Gained |
 |:---------------:|-----------------|:------------------:|-----------------|
-| <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" alt="Google Analytics" width="40"/> | [📊 Google Analytics Certification](https://skillshop.credential.net/d90c6566-2c02-4db9-89ec-6bbacf0a90e3#acc.wXGBbzWU) | July 2024 | Data Analytics, Web Insights |
+| <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" alt="Google Analytics" width="40"/> | [📊 Google Analytics Certification](https://skillshop.credential.net/d90c6566-2c02-4db9-89ec-6bbacf0a90e3#acc.wXGBbzWU) | July 2024 | Data Analytics, Google Analytics 4 (GA4) Proficiency |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="40"/> | [💼 Career Essentials in Data Analysis by Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/b6bc7bc31c51bfd6755c2a374ceb97f1d14efc514c1347eac418c66243fa7597) | Aug 2024 | Excel, SQL, Visualization |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/DeloitteNewSmall.png" alt="Deloitte Logo" width="40"/> | [📈 Deloitte Australia - Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Mq3C4QoLmoxPjpEwJ_1754939755746_completion_certificate.pdf) | Aug 2024 | Business Analysis, Reporting |
 | <img src="https://www.langoly.com/wp-content/uploads/2022/09/udemy-logo.png" alt="Udemy Logo" width="40"/> | [⚛️ React JS – A Deep Dive](https://www.udemy.com/certificate/UC-af8e1c66-b80c-4fe7-9ea9-0808bbeba238/) | Sept 2024 | React, JavaScript, UI/UX |
