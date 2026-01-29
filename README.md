@@ -37,23 +37,14 @@
  <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tatai422005&theme=react&hide_border=false&include_all_commits=true&count_private=false" />
-    </td>
-    <td>
       <img alt="Coder GIF" height="250" width="350"
         src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=tatai422005&theme=react&hide_border=false" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatai422005&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
