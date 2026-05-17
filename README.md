@@ -1,4 +1,4 @@
-![logo](https://github.com/tatai422005/tatai422005/blob/main/Purple%20and%20Blue%20Futuristic%20Data%20Analyst%20LinkedIn%20Banner%20(2).png)
+![logo](https://raw.githubusercontent.com/tatai422005/tatai422005/main/header_v2.png)
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Soumyadeep Roy</h1> 
 
 <div align="center">
